@@ -1,0 +1,51 @@
+commit cd67279c8f9fa99e7f0e6319fc82c5b2d3f29b6f
+Merge: 7839ade 7575ff3
+Author: VillaJesus <jesusavilla567@gmail.com>
+Date:   Sat Feb 1 22:12:36 2025 -0800
+
+    Merge branch 'index-fix'
+
+commit 7575ff330fd0fb4e8ff4e5fed720c3886ad65912
+Author: VillaJesus <jesusavilla567@gmail.com>
+Date:   Sat Feb 1 22:06:59 2025 -0800
+
+    Added my favorite video game to index.html
+
+commit 7839ade74188c65d756ca39650355f9e6013d22b
+Author: VillaJesus <jesusavilla567@gmail.com>
+Date:   Sat Feb 1 22:05:06 2025 -0800
+
+    Added my favorite food to index.html
+
+commit 3fbca407d9d0ab73d2f6916d251e8af6038d98ff
+Author: VillaJesus <jesusavilla567@gmail.com>
+Date:   Sat Feb 1 21:53:25 2025 -0800
+
+    Commit my README
+
+commit 2b384e22780db547525aad9ce093ee7fef32779b
+Author: VillaJesus <jesusavilla567@gmail.com>
+Date:   Sat Feb 1 21:49:46 2025 -0800
+
+    Commit my README
+
+commit edb32b6905bf7e2a82d56fde43e92feb57de2205
+Merge: 1d2bfc0 b0c0386
+Author: VillaJesus <166075751+VillaJesus@users.noreply.github.com>
+Date:   Sat Feb 1 21:47:23 2025 -0800
+
+    Merge pull request #1 from VillaJesus/info-fill
+    
+    Filled in missing information in index.html
+
+commit b0c03863c81758a217d27714c7a5f96dea5f2c63
+Author: VillaJesus <jesusavilla567@gmail.com>
+Date:   Sat Feb 1 21:37:57 2025 -0800
+
+    Filled in missing information in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
